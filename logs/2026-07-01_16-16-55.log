@@ -1,0 +1,6 @@
+[2026-07-01 16:17:01,256] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-07-01 16:17:01,264] 107 dagshub - INFO - Accessing as chrisjp06
+[2026-07-01 16:17:02,573] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/chrisjp06/MLproject2 "HTTP/1.1 200 OK"
+[2026-07-01 16:17:03,843] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-07-01 16:17:03,845] 107 dagshub - INFO - Initialized MLflow to track repo "chrisjp06/MLproject2"
+[2026-07-01 16:17:03,846] 107 dagshub - INFO - Repository chrisjp06/MLproject2 initialized!

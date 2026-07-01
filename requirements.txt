@@ -9,4 +9,5 @@ dill
 pyaml
 dagshub
 mlflow
+python-multipart
 pymongo[srv]==3.12
